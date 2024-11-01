@@ -1,0 +1,2 @@
+# JS Mini Projects
+ Introducing a dynamic suite of web projects: a Color Changer that transforms your page’s aesthetics with a click, a BMI Generator for quick health insights, and a Number Guess Game that challenges your intuition. Built with HTML, CSS, and JavaScript, these interactive applications blend functionality with engaging design. Explore the fun and practicality of coding through these creative tools!
